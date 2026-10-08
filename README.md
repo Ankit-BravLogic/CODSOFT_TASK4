@@ -4,6 +4,12 @@
 
 SpamShield AI is a Machine Learning application that classifies SMS messages as **Spam** or **Legitimate (Ham)** using Natural Language Processing and Multinomial Naive Bayes.
 
+## 🌐 Live Demo
+
+🚀 **Try SpamShield AI:**  
+https://spamshield-ai-4.streamlit.app
+
+
 The project was developed as part of the **CodSoft Machine Learning Internship — Task 4: Spam SMS Detection**.
 
 ---
